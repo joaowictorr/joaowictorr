@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="45" align="center">
   Oiee, eu sou o João Wíctor, mas pode me chamar de JW!
 </h1>
+![Python](https://img.shields.io/badge/Python-7B62A3?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292e?style=for-the-badge&logo=docker&logoColor=7B62A3)
 
 Atualmente faço o curso de Ciência da Computação no UniCEUB (Centro Universitário de Brasília) e estou em busca da minha **primeira oportunidade profissional** na área de TI.
 Sou apaixonado por desenvolvimento de software e pela construção de soluções que unem uma interface amigável a uma estrutura de dados robusta. Meu foco está em criar códigos limpos e escaláveis.
