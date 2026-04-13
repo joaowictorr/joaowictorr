@@ -43,12 +43,12 @@ Sou apaixonado por desenvolvimento de software e pela construção de soluções
 - [E-mail](joaowictorgomesoliveira@gmail.com)
 
 <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif" height="30" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/59.gif" height="30" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/135.gif" height="30" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="30" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif" height="30" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/142.gif" height="30" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/venusaur.png" height="40" />
+  <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arcanine.png" height="40" />
+  <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/jolteon.png" height="40" />
+  <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/gengar.png" height="40" />
+  <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lapras.png" height="40" />
+  <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/aerodactyl.png" height="40" />
 </p>
 <br>
