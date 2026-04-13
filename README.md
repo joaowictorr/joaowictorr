@@ -24,6 +24,10 @@ Sou apaixonado por desenvolvimento de software e pela construção de soluções
 
 ### ⚡ Fun Facts:
 - 🎮 Apaixonado por **Pokémon**: Meus favoritos são a **Sylveon** e o **Gengar**.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="80">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/700.gif" height="80">
+</div>
 - 🎵 Amo música pop: Não falta **Beyoncé** e **Marina Sena** nas minhas playlists.
 - 📚 Devorador de livros de suspense: O **Raphael Montes** é meu autor favorito (sempre aceito recomendações de thrillers e qualquer outro gênero).
 
