@@ -1,6 +1,4 @@
-# Oiee, eu sou o João Wíctor, mas pode me chamar de JW! <div>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="80">
-</div>
+# Oiee, eu sou o João Wíctor, mas pode me chamar de JW! <div> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="80"> </div>
 
 Atualmente faço o curso de Ciência da Computação no UniCEUB (Centro Universitário de Brasília) e estou em busca da minha **primeira oportunidade profissional** na área de TI.
 Sou apaixonado por desenvolvimento de software e pela construção de soluções que unem uma interface amigável a uma estrutura de dados robusta. Meu foco está em criar códigos limpos e escaláveis.
