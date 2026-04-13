@@ -6,12 +6,10 @@ Atualmente faço o curso de Ciência da Computação no UniCEUB (Centro Universi
 Sou apaixonado por desenvolvimento de software e pela construção de soluções que unem uma interface amigável a uma estrutura de dados robusta. Meu foco está em criar códigos limpos e escaláveis.
 
 <div align="center">
-  <h3>🛠️ Tecnologias e Linguagens</h3>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 ### 🚀 Sobre mim:
