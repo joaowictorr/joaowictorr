@@ -1,9 +1,7 @@
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/Stephan-S/Stephan-S/master/gengar.gif" width="50"></td>
-    <td><h1>Oiee, eu sou o João Wíctor, mas pode me chamar de JW!</h1></td>
-  </tr>
-</table>
+<h1>
+  <img src="https://raw.githubusercontent.com/Stephan-S/Stephan-S/master/gengar.gif" width="45" align="center">
+  Oiee, eu sou o João Wíctor, mas pode me chamar de JW!
+</h1>
 
 Atualmente faço o curso de Ciência da Computação no UniCEUB (Centro Universitário de Brasília) e estou em busca da minha **primeira oportunidade profissional** na área de TI.
 Sou apaixonado por desenvolvimento de software e pela construção de soluções que unem uma interface amigável a uma estrutura de dados robusta. Meu foco está em criar códigos limpos e escaláveis.
