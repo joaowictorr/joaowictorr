@@ -15,13 +15,6 @@ Sou apaixonado por desenvolvimento de software e pela construção de soluções
 - **Dados:** SQL
 - **Ferramentas:** Git, GitHub, VS Code
 
-### 📂 Projetos em Destaque:
-- [Donation Manager](https://github.com/joaowictorr/donations-manager): Sistema de gestão de doações focado em reduzir o desperdício de alimentos (Python, Pytest, CI/CD).
-
-### 📫 Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [E-mail](mailto:seu-email@exemplo.com)
-
 ### 🌱 Atualmente aprendendo:
 - **Linguagens:** Aprofundando em **Python** e desenvolvendo APIs robustas em **C#**.
 - **Engenharia de Software:** Estudando **Engenharia de Requisitos** e metodologias de desenvolvimento para criar soluções mais eficientes e organizadas.
