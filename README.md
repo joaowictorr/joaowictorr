@@ -7,7 +7,7 @@ Sou apaixonado por desenvolvimento de software e pela construção de soluções
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/sylveon.png" width="80" style="vertical-align:middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaowictorr&show_icons=true&theme=rose_pine" width="380" style="vertical-align:middle">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowictorr&layout=compact&theme=rose_pine&hide_border=true" width="350" style="vertical-align:middle">
 </div>
 
 ### 🚀 Sobre mim:
