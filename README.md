@@ -28,6 +28,6 @@ Sou apaixonado por desenvolvimento de software e pela construção de soluções
 - 📚 Devorador de livros de suspense: O **Raphael Montes** é meu autor favorito (sempre aceito recomendações de thrillers e qualquer outro gênero).
 
 ### 📫 Como me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/joaowictorrr)
+- [LinkedIn](https://www.linkedin.com/in/joaowictorr)
 - [E-mail](joaowictorgomesoliveira@gmail.com)
 
