@@ -2,7 +2,16 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="45" align="center">
   Oiee, eu sou o João Wíctor, mas pode me chamar de JW!
 </h1>
-https://img.shields.io/badge/Python-7B62A3?style=for-the-badge&logo=python&logoColor=white
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/MayccY/MayccY/master/assets/sylveon.gif" width="120">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=joaowictorr&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000">
+    </td>
+  </tr>
+</table>
 
 Atualmente faço o curso de Ciência da Computação no UniCEUB (Centro Universitário de Brasília) e estou em busca da minha **primeira oportunidade profissional** na área de TI.
 Sou apaixonado por desenvolvimento de software e pela construção de soluções que unem uma interface amigável a uma estrutura de dados robusta. Meu foco está em criar códigos limpos e escaláveis.
