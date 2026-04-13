@@ -6,7 +6,6 @@ Atualmente faço o curso de Ciência da Computação no UniCEUB (Centro Universi
 Sou apaixonado por desenvolvimento de software e pela construção de soluções que unem uma interface amigável a uma estrutura de dados robusta. Meu foco está em criar códigos limpos e escaláveis.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/sylveon.png" width="80" style="vertical-align:middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowictorr&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
 </div>
 
