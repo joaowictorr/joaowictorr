@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/Stephan-S/Stephan-S/master/gengar.gif" width="45" align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="45" align="center">
   Oiee, eu sou o João Wíctor, mas pode me chamar de JW!
 </h1>
 
